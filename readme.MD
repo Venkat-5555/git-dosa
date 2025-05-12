@@ -3,3 +3,5 @@
 # dosa flour
 
 # light oil
+
+# salt
