@@ -21,3 +21,5 @@
 * oil
 
 * allam
+
+* pista
