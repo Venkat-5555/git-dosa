@@ -22,4 +22,6 @@
 
 * allam
 
-* pista
+* kaju
+
+* podi
