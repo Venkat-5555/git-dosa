@@ -14,12 +14,14 @@
 
 * masala
 
-# special
+# special dosa
 
 * batter
 
 * oil
 
-* podi
+* allam
 
 * kaju
+
+* podi
