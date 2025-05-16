@@ -19,3 +19,5 @@
 * batter
 
 * oil
+
+* allam
