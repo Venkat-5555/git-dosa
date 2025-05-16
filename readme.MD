@@ -5,3 +5,7 @@
 # light oil
 
 # salt
+
+# masala dosa
+
+* batter
